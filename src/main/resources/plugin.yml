@@ -1,0 +1,7 @@
+name: SeniorTempMute
+version: 1.0.0
+main: br.alysonsantos.com.Main
+authors: [AlysonSantos]
+commands:
+  tempmute:
+  unmute:
